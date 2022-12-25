@@ -1,0 +1,57 @@
+
+
+{
+  "title":"Se descreva no amigo secreto e descubrirá seu presente",
+  "questions":[
+    {
+      "id":1,
+      "question": "A pessoa que te tirou vai falar que você é uma pessoa...",
+      "options":[
+        {"id": 1, "name":"Animada", "alias":"A"},
+        {"id": 2, "name":"Comunicativa", "alias":"B"},
+        {"id": 3, "name":"Inteligente", "alias":"A"},
+        {"id": 4, "name":"Disposta", "alias":"B"},
+        {"id": 5, "name":"Discreta", "alias":"A"}
+      ]
+    },
+    {
+      "id":2,
+      "question": "É alguém que sempre",
+      "options":[
+        {"id": 1, "name":"Chega chegando", "alias":"A"},
+        {"id": 2, "name":"Ajuda os amigos", "alias":"A"},
+        {"id": 3, "name":"Gosta de cozinhar", "alias":"B"}
+      ]
+    },
+    {
+      "id":3,
+      "question": "E que às vezes..",
+      "options":[
+        {"id": 1, "name":"Fala mais que a boca", "alias":"B"},
+        {"id": 2, "name":"Estressa facilmente", "alias":"A"},
+        {"id": 3, "name":"Atrasa nos compromissos", "alias":"A"},
+        {"id": 4, "name":"Não gosta de sorvete", "alias":"B"}
+      ]
+    },
+    {
+      "id":4,
+      "question": "Mas que podemos contar para...",
+      "options":[
+        {"id": 1, "name":"Ajudar com as tarefas", "alias":"A"},
+        {"id": 2, "name":"Conversar", "alias":"B"}
+      ]
+    },
+    {
+      "id":5,
+      "question": "Sua comida predileta é ...",
+      "options":[
+        {"id": 1, "name":"Pizza", "alias":"A"},
+        {"id": 2, "name":"Comida japonesa", "alias":"B"}
+      ]
+    }
+  ],
+  "results":{
+    "A": "Você ganhou uma caixa de bombom!",
+    "B": "Você ganhou uma camiseta"
+  }
+}
